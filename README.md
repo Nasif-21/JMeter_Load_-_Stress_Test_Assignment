@@ -27,7 +27,8 @@ This project contains stress and load test on a book shop app to find out how it
 ## Running Reports and JMeter Dashboard
 + Go to the file where ``booking.jmx`` file is stored.
 + Open command line
-+ Write this command : ```jmeter -n -t .\booking.jmx -l .\booking.jtl -e -o Reports```
++ Write this command : ```jmeter -n -t .\booking.jmx -l .\bookingload.jtl -e -o LoadTestReports``` for load test
++ + Write this command : ```jmeter -n -t .\booking.jmx -l .\bookingStress.jtl -e -o StressTestReports``` for stress test
 + An report folder, jmeter log and jtl file will be created
 + Under report folder, there is an html file name index, open to view the reports
 
