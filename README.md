@@ -34,7 +34,12 @@ This project contains stress and load test on a book shop app to find out how it
 
 ## Attachments:
 ### JMeter Dashboard screenshot:
-<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/97a4ece0-9c30-415f-a8b6-b3eead68bf5d" />
+### For Stress test:
+<img width="1918" height="836" alt="image" src="https://github.com/user-attachments/assets/b02f2fb7-6f67-49b5-bc19-58bc09214515" />
+
+### For Load Test:
+<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/1aaa7266-fbdd-4a59-9278-2d7f52918fb5" />
+
 
 ### Load Test report screenshot:
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/42725c66-45fd-4529-b7b2-aaf8e12d0831" />
